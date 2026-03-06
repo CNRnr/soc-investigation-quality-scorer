@@ -1,7 +1,5 @@
 # SOC Investigation Quality Scoring AI
 
-# SOC Investigation Quality Scoring AI
-
 AI-assisted SOC investigation quality assurance, analyst coaching, and performance benchmarking system.
 
 This project presents a local LLM-based evaluator designed to score the quality of SOC analyst investigations from raw security logs and analyst-written investigation reports. The system produces continuous quality scores across multiple reasoning dimensions and generates structured feedback to help improve investigation depth, consistency, and analytical quality.
