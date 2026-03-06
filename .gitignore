@@ -1,7 +1,20 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
-.cache/
-.env
-*.log
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Training artifacts
+finetune/out/checkpoint-*/
+
+# Local experiment outputs
 output/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
