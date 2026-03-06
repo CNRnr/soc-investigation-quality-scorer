@@ -1,0 +1,9 @@
+{
+  "EventID": 4688,
+  "NewProcessName": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "ParentProcessName": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "CommandLine": "powershell.exe -NoP -W Hidden -EncodedCommand SQBFAFgA",
+  "User": "CONTOSO\\unknown_user25",
+  "Host": "WIN10-CLIENT01",
+  "IntegrityLevel": "Medium"
+}
