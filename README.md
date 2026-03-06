@@ -249,3 +249,11 @@ analyst coaching mode
 cross-team and cross-SOC benchmarking
 
 model deployment without shipping full training artifacts in the repo
+
+## Screenshots
+
+### Demo Input
+![Demo Input](assets/demo_input.png)
+
+### Evaluation Result
+![Evaluation Result](assets/demo_result.png)
